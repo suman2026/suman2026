@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Dynamic Typing Header with Custom Animation -->
-<img  width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey+there!+I'm+Suman;Full-Stack+Developer;Building+Scalable+Systems;Let's+Code+Together!" alt="Typing SVG" />
+<img  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey+there!+I'm+Suman;Full-Stack+Developer;Building+Scalable+Systems;Let's+Code+Together!" alt="Typing SVG" />
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,25:7B2FBE,50:FF006E,75:7B2FBE,100:00D9FF&height=140&section=header&text=&animation=fadeIn" />
+<img width="100%" hight = "90%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,25:7B2FBE,50:FF006E,75:7B2FBE,100:00D9FF&height=140&section=header&text=&animation=fadeIn" />
 
 </div>
 
