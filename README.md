@@ -8,16 +8,12 @@
 
 </div>
 
----
-
 <!-- Quick Navigation -->
 <div align="center">
 
 **[About](#-about-me) • [Skills](#-tech-arsenal) • [Projects](#-featured-projects) • [Stats](#-github-analytics) • [Connect](#-connect-with-me) • [Latest](#-recent-activity)**
 
 </div>
-
----
 
 <!-- About Me Section with Enhanced Details -->
 <table align="center" width="100%">
